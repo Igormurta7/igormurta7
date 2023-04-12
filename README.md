@@ -11,7 +11,7 @@ I also have a background in Customer Experience and Product teams.
 
 ### Tools & languages
 
-- JavaScript (Vue e Angular)
+- JavaScript (Vue e React)
 - Python
 - GoLang
 - Cypress
